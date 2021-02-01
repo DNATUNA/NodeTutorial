@@ -1,0 +1,6 @@
+# Node 모듈 설치 폴더
+node_modules/
+
+# env Settings file
+.env
+.env.*
