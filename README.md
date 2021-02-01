@@ -1,6 +1,6 @@
 # NodeTutorial
 
-`냉장고를 부탁해` 프로젝트 틀을 짜보는 튜토리얼!
+> `냉장고를 부탁해` 프로젝트 틀을 짜보는 튜토리얼!
 
 ## 1. 튜토리얼 목적
 
@@ -19,11 +19,12 @@
 
 - Node 12 이상
 - ES6 이상 문법 사용(babel-node)
-- nodemon(코드 수정시 자동 재시작)
+- nodemon(코드 수정 시 자동 재시작)
 - express
 - body-parser
 - dotenv
 - sequelize
+- ESlint & Prettier
 
 개발에만 집중할 수 있도록, 일부 서버 환경([express](https://www.npmjs.com/package/express))이 포함되어 있습니다. `src` 디렉토리에서 작업을 하시면 됩니다. 이 레포지토리를 클론한 후에 다음의 명령어로 서버를 시작할 수 있습니다.
 
@@ -35,6 +36,8 @@
 > npm start
 
 ```
+
+ESlint와 Prettier 세팅을 미리 해뒀습니다. VSCode를 사용중이시라면 [ESlint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)와 [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode) Extension을 꼭 설치해주세요.
 
 ## 3. ERD
 
