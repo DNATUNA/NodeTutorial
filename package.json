@@ -1,0 +1,19 @@
+{
+  "name": "nodetutorial",
+  "version": "1.0.0",
+  "description": "Node.js 프로젝트 틀 짜보는 튜토리얼",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DNATUNA/NodeTutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DNATUNA/NodeTutorial/issues"
+  },
+  "homepage": "https://github.com/DNATUNA/NodeTutorial#readme"
+}
